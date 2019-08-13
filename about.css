@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: lime;
+}
+
+p {
+    width: 450px;
+    height: 450px;
+    background: navy;
+    border-top: 20px lime;
+    border-radius: 10px;
+    opacity: 0.5;
+    color: lime;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 10px;
+}
+
+body {
+    background-color: rgba(4, 4, 65, 0.883);
+}
